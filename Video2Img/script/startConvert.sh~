@@ -1,0 +1,6 @@
+#!/bin/bash
+
+inputDir=input/
+inputVideoRPathList=(`ls ${inputDir}`) 
+
+for video in ${inputVideoRPathList[*]}

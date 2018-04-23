@@ -1,0 +1,1 @@
+/home/roso8/Desktop/labellingToolBag/02_Video2Img/build/bin/CMakeFiles/runMain.dir
