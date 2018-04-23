@@ -4,6 +4,7 @@
 3. cmake ..
 4. make
 5. cd ..
-6. put your videos into input/
-7. ./script/startConvert.sh
-8. find your image dirs in output
+6. mkdir input/ output/
+7. put your videos into input/
+8. ./script/startConvert.sh
+9. find your image dirs in output
